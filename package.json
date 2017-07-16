@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\ilari\\AppData\\Local\\Temp\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\ilari\\AppData\\Local\\Temp\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+        "spec": "C:\\Users\\ilari\\AppData\\Local\\Temp\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\ilari\\AppData\\Local\\Temp\\apm-install-dir-117615-3672-1iy00wo.sonhggmn29"
+    ]
+  ],
+  "_from": "..\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+  "_id": "monokai-elarry-syntax@0.4.0",
+  "_inCache": true,
+  "_location": "/monokai-elarry-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\ilari\\AppData\\Local\\Temp\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\ilari\\AppData\\Local\\Temp\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+    "spec": "C:\\Users\\ilari\\AppData\\Local\\Temp\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+  "_shasum": "d39c335ae4a157bb3e7c77e33c0af9b645bf3edb",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\ilari\\AppData\\Local\\Temp\\d-117615-3672-gnqlem.l2ve2buik9\\package.tgz",
+  "_where": "C:\\Users\\ilari\\AppData\\Local\\Temp\\apm-install-dir-117615-3672-1iy00wo.sonhggmn29",
+  "bugs": {
+    "url": "https://github.com/elarry/monokai-elarry-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "High contrast monokai-style theme.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/elarry/monokai-elarry-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "monokai-elarry-syntax",
+  "optionalDependencies": {},
+  "readme": "# monokai-elarry-syntax theme\n\nA Monokai-style syntax theme created with especially Markdown in mind. The theme endevours to create a visually clearer theme that is high in contrast and makes use of more colour-highlighting than the standard Monokai theme.\n\n![A screenshot of your theme](Examples/Markdown.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elarry/monokai-elarry-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.4.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
