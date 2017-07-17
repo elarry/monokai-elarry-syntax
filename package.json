@@ -59,7 +59,7 @@
     "url": "git+https://github.com/elarry/monokai-elarry-syntax.git"
   },
   "theme": "syntax",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
